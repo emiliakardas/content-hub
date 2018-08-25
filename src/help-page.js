@@ -14,7 +14,6 @@ class HelpPage extends PolymerElement {
       </style>
 
       <div class="card">
-        <div class="circle">1</div>
         <h1>Help</h1>
         <p>Help!</p>
       </div>
